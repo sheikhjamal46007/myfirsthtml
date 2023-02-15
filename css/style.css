@@ -1,0 +1,8 @@
+body
+{background-color:gray;}
+table,th,td{border:solid green;
+border-bottom-width:6px;
+border-collapse:collapse;
+padding:14px;}
+th{background-color:aqua;}
+caption{background-color:funchsia}
